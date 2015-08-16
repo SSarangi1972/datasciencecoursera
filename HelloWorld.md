@@ -8,5 +8,9 @@
 
 ## Steps Taken
 
-* Created .md file
-* 
+* Created HelloWorld.md file
+* git status
+* git add HelloWorld.md
+* Edit HelloWorld.md file
+* git status
+
