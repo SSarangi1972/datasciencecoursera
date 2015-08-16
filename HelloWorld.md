@@ -20,4 +20,6 @@
 * -> Esc
 * -> :wq
 * git status
-*
+* Git Push - to server
+* HellowWorld.md Edited in GitHub
+* git pull 
